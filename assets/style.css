@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
   line-height: 1;
   font-weight: 700;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins", bokul;
 }
 #header h1 a, #header h1 a:hover {
   color: #fff;
@@ -186,7 +186,7 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   justify-content: space-between;
   padding: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: "bokul", bokul;
   font-size: 16px;
   font-weight: 400;
   color: rgba(255, 255, 255, 0.7);
